@@ -11,8 +11,7 @@ class TableViewController: UITableViewController{
     
     
     var value = [0]
-    
-
+    let array = 0
     override func viewDidLoad() {
         super.viewDidLoad()
         let array = 1...10
